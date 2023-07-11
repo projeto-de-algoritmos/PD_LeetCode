@@ -12,7 +12,7 @@
 ## Sobre 
 Este repositório contém a resolução de 2 exercicios relacionados a Programação dinâmica, contemplando os algoritmos de Weigthed Interval scheduling e maior subsequência crescente. Os Exercicios realizados foram retirados do [LeetCode](https://leetcode.com/)
 
-## [Link da Apresentação]()
+## [Link da Apresentação](https://youtu.be/e8SgQvJDhUg)
 
 ## Screenshots
 
@@ -21,7 +21,7 @@ Este repositório contém a resolução de 2 exercicios relacionados a Programa�
 Link: [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) <br>
 Dificuldade: Difícil
 
-![](./maximumProfit.png)
+![](./img/maximumProfit.png)
 
 ### Exercício 2 - Longest Increasing Subsequence
 
@@ -30,7 +30,7 @@ Link: [Longest Increasing Subsequence
 ](https://leetcode.com/problems/longest-increasing-subsequence/description/)<br>
 Dificuldade: Médio
 
-![](./increasing.png)
+![](./img/increasing.png)
 
 
 ## Instalação 
